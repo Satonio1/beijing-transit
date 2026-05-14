@@ -1,0 +1,491 @@
+{
+  "schema_version": "metro_timetable.v1",
+  "line": "昌平线",
+  "station": "十三陵景区",
+  "direction": "十三陵景区站-蓟门桥站方向",
+  "service_day": "weekend",
+  "source_image": "data/metro/images/d_file_station_xltcx_linecp_2024-04-15_昌平线-十三陵景区站-蓟门桥站方向-双休日.jpg_1",
+  "source_url": "https://www.bjsubway.com/d/file/station/xltcx/linecp/2024-04-15/昌平线-十三陵景区站-蓟门桥站方向-双休日.jpg?=1",
+  "read_by": "rd-gpt-5.2-vision-redo",
+  "read_at": "2026-05-13T05:39:55.975Z",
+  "confidence": "high",
+  "official_schedule_date": "2024-04-15",
+  "schedule_variant": "weekend_regular",
+  "times": [
+    {
+      "time": "05:01"
+    },
+    {
+      "time": "05:10"
+    },
+    {
+      "time": "05:18"
+    },
+    {
+      "time": "05:27"
+    },
+    {
+      "time": "05:36"
+    },
+    {
+      "time": "05:45"
+    },
+    {
+      "time": "05:54"
+    },
+    {
+      "time": "06:02"
+    },
+    {
+      "time": "06:11"
+    },
+    {
+      "time": "06:19"
+    },
+    {
+      "time": "06:28"
+    },
+    {
+      "time": "06:35"
+    },
+    {
+      "time": "06:42"
+    },
+    {
+      "time": "06:49"
+    },
+    {
+      "time": "06:55"
+    },
+    {
+      "time": "07:02"
+    },
+    {
+      "time": "07:08"
+    },
+    {
+      "time": "07:14"
+    },
+    {
+      "time": "07:19"
+    },
+    {
+      "time": "07:26"
+    },
+    {
+      "time": "07:32"
+    },
+    {
+      "time": "07:38"
+    },
+    {
+      "time": "07:44"
+    },
+    {
+      "time": "07:50"
+    },
+    {
+      "time": "07:56"
+    },
+    {
+      "time": "08:02"
+    },
+    {
+      "time": "08:08"
+    },
+    {
+      "time": "08:14"
+    },
+    {
+      "time": "08:20"
+    },
+    {
+      "time": "08:26"
+    },
+    {
+      "time": "08:32"
+    },
+    {
+      "time": "08:37"
+    },
+    {
+      "time": "08:44"
+    },
+    {
+      "time": "08:50"
+    },
+    {
+      "time": "08:56"
+    },
+    {
+      "time": "09:02"
+    },
+    {
+      "time": "09:08"
+    },
+    {
+      "time": "09:15"
+    },
+    {
+      "time": "09:22"
+    },
+    {
+      "time": "09:30"
+    },
+    {
+      "time": "09:37"
+    },
+    {
+      "time": "09:45"
+    },
+    {
+      "time": "09:53"
+    },
+    {
+      "time": "10:01"
+    },
+    {
+      "time": "10:10"
+    },
+    {
+      "time": "10:18"
+    },
+    {
+      "time": "10:27"
+    },
+    {
+      "time": "10:35"
+    },
+    {
+      "time": "10:44"
+    },
+    {
+      "time": "10:52"
+    },
+    {
+      "time": "11:01"
+    },
+    {
+      "time": "11:09"
+    },
+    {
+      "time": "11:18"
+    },
+    {
+      "time": "11:26"
+    },
+    {
+      "time": "11:34"
+    },
+    {
+      "time": "11:43"
+    },
+    {
+      "time": "11:52"
+    },
+    {
+      "time": "12:00"
+    },
+    {
+      "time": "12:09"
+    },
+    {
+      "time": "12:17"
+    },
+    {
+      "time": "12:26"
+    },
+    {
+      "time": "12:34"
+    },
+    {
+      "time": "12:43"
+    },
+    {
+      "time": "12:51"
+    },
+    {
+      "time": "13:00"
+    },
+    {
+      "time": "13:08"
+    },
+    {
+      "time": "13:17"
+    },
+    {
+      "time": "13:25"
+    },
+    {
+      "time": "13:34"
+    },
+    {
+      "time": "13:42"
+    },
+    {
+      "time": "13:50"
+    },
+    {
+      "time": "13:59"
+    },
+    {
+      "time": "14:08"
+    },
+    {
+      "time": "14:16"
+    },
+    {
+      "time": "14:25"
+    },
+    {
+      "time": "14:33"
+    },
+    {
+      "time": "14:42"
+    },
+    {
+      "time": "14:50"
+    },
+    {
+      "time": "14:59"
+    },
+    {
+      "time": "15:07"
+    },
+    {
+      "time": "15:15"
+    },
+    {
+      "time": "15:24"
+    },
+    {
+      "time": "15:33"
+    },
+    {
+      "time": "15:41"
+    },
+    {
+      "time": "15:50"
+    },
+    {
+      "time": "15:58"
+    },
+    {
+      "time": "16:06"
+    },
+    {
+      "time": "16:14"
+    },
+    {
+      "time": "16:22"
+    },
+    {
+      "time": "16:29"
+    },
+    {
+      "time": "16:35"
+    },
+    {
+      "time": "16:41"
+    },
+    {
+      "time": "16:47"
+    },
+    {
+      "time": "16:53"
+    },
+    {
+      "time": "16:59"
+    },
+    {
+      "time": "17:05"
+    },
+    {
+      "time": "17:10"
+    },
+    {
+      "time": "17:17"
+    },
+    {
+      "time": "17:23"
+    },
+    {
+      "time": "17:29"
+    },
+    {
+      "time": "17:35"
+    },
+    {
+      "time": "17:41"
+    },
+    {
+      "time": "17:47"
+    },
+    {
+      "time": "17:52"
+    },
+    {
+      "time": "17:59"
+    },
+    {
+      "time": "18:05"
+    },
+    {
+      "time": "18:11"
+    },
+    {
+      "time": "18:17"
+    },
+    {
+      "time": "18:23"
+    },
+    {
+      "time": "18:29"
+    },
+    {
+      "time": "18:35"
+    },
+    {
+      "time": "18:41"
+    },
+    {
+      "time": "18:47"
+    },
+    {
+      "time": "18:53"
+    },
+    {
+      "time": "18:59"
+    },
+    {
+      "time": "19:05"
+    },
+    {
+      "time": "19:11"
+    },
+    {
+      "time": "19:17"
+    },
+    {
+      "time": "19:23"
+    },
+    {
+      "time": "19:30"
+    },
+    {
+      "time": "19:37"
+    },
+    {
+      "time": "19:44"
+    },
+    {
+      "time": "19:51"
+    },
+    {
+      "time": "19:59"
+    },
+    {
+      "time": "20:07"
+    },
+    {
+      "time": "20:16"
+    },
+    {
+      "time": "20:25"
+    },
+    {
+      "time": "20:33"
+    },
+    {
+      "time": "20:42"
+    },
+    {
+      "time": "20:50"
+    },
+    {
+      "time": "20:59"
+    },
+    {
+      "time": "21:07"
+    },
+    {
+      "time": "21:16"
+    },
+    {
+      "time": "21:24"
+    },
+    {
+      "time": "21:33"
+    },
+    {
+      "time": "21:41"
+    },
+    {
+      "time": "21:50"
+    },
+    {
+      "time": "21:58"
+    },
+    {
+      "time": "22:07"
+    },
+    {
+      "time": "22:16"
+    },
+    {
+      "time": "22:26"
+    },
+    {
+      "time": "22:34"
+    },
+    {
+      "time": "22:43"
+    },
+    {
+      "time": "22:52"
+    },
+    {
+      "time": "23:00"
+    },
+    {
+      "time": "23:09"
+    },
+    {
+      "time": "23:18"
+    },
+    {
+      "time": "23:27"
+    },
+    {
+      "time": "23:37"
+    }
+  ],
+  "legend": [],
+  "warnings": [
+    "The '00' hour row at the bottom of the timetable appears blank/has no visible departure minutes in this image; no 00:xx times included.",
+    "replaced Apple Vision OCR result after rd/gpt-5.2 visual re-read; old OCR file backed up under tmp/model-redo-ocr/backups/batch-001-before-apply"
+  ],
+  "ocr_summary": {
+    "parser": "char",
+    "row_count": 8,
+    "populated_row_count": 8,
+    "time_count": 44,
+    "hour_count": 6,
+    "midday_gap_count": 1
+  },
+  "qa": {
+    "rd_gpt_5_2_redo_2026_05_13": {
+      "result_path": "tmp/model-redo-ocr/validation-5.2-batch-001-results.json",
+      "old_read_by": "apple-vision-char-ocr",
+      "old_count": 44,
+      "old_first": "05:01",
+      "old_last": "23:37",
+      "old_max_gap": 608,
+      "new_count": 149,
+      "new_first": "05:01",
+      "new_last": "23:37",
+      "verdict": "ok",
+      "model": "rd/gpt-5.2"
+    }
+  }
+}

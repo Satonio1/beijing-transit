@@ -1,0 +1,242 @@
+{
+  "schema_version": "metro_timetable.v1",
+  "line": "13号线",
+  "station": "西直门",
+  "direction": "西直门站-东直门站方向",
+  "service_day": "weekday",
+  "official_schedule_date": "2024-04-09",
+  "schedule_variant": "weekday_regular",
+  "operator": "北京市地铁运营有限公司",
+  "source_image": "data/metro/images/d_file_station_xltcx_line13_2024-04-09_13号线-西直门站-东直门站方向-工作日1.jpg_1",
+  "source_url": "https://www.bjsubway.com/d/file/station/xltcx/line13/2024-04-09/13号线-西直门站-东直门站方向-工作日1.jpg?=1",
+  "read_by": "rd/gpt-5.4-vision-redo",
+  "read_at": "2026-05-14T08:18:09.266Z",
+  "confidence": "high",
+  "times": [
+    {
+      "time": "06:44"
+    },
+    {
+      "time": "06:52"
+    },
+    {
+      "time": "07:01"
+    },
+    {
+      "time": "07:09"
+    },
+    {
+      "time": "07:17"
+    },
+    {
+      "time": "07:25"
+    },
+    {
+      "time": "07:32"
+    },
+    {
+      "time": "07:38"
+    },
+    {
+      "time": "07:44"
+    },
+    {
+      "time": "07:50"
+    },
+    {
+      "time": "07:56"
+    },
+    {
+      "time": "08:02"
+    },
+    {
+      "time": "08:08"
+    },
+    {
+      "time": "08:14"
+    },
+    {
+      "time": "08:20"
+    },
+    {
+      "time": "08:26"
+    },
+    {
+      "time": "08:32"
+    },
+    {
+      "time": "08:38"
+    },
+    {
+      "time": "08:44"
+    },
+    {
+      "time": "08:50"
+    },
+    {
+      "time": "08:56"
+    },
+    {
+      "time": "09:02"
+    },
+    {
+      "time": "09:08"
+    },
+    {
+      "time": "09:14"
+    },
+    {
+      "time": "09:20"
+    },
+    {
+      "time": "09:26"
+    },
+    {
+      "time": "09:32"
+    },
+    {
+      "time": "09:38"
+    },
+    {
+      "time": "09:44"
+    },
+    {
+      "time": "09:50"
+    },
+    {
+      "time": "09:56"
+    },
+    {
+      "time": "10:02"
+    },
+    {
+      "time": "10:08"
+    },
+    {
+      "time": "16:44"
+    },
+    {
+      "time": "16:53"
+    },
+    {
+      "time": "17:01"
+    },
+    {
+      "time": "17:08"
+    },
+    {
+      "time": "17:14"
+    },
+    {
+      "time": "17:21"
+    },
+    {
+      "time": "17:27"
+    },
+    {
+      "time": "17:34"
+    },
+    {
+      "time": "17:40"
+    },
+    {
+      "time": "17:47"
+    },
+    {
+      "time": "17:53"
+    },
+    {
+      "time": "18:00"
+    },
+    {
+      "time": "18:06"
+    },
+    {
+      "time": "18:13"
+    },
+    {
+      "time": "18:19"
+    },
+    {
+      "time": "18:26"
+    },
+    {
+      "time": "18:32"
+    },
+    {
+      "time": "18:39"
+    },
+    {
+      "time": "18:45"
+    },
+    {
+      "time": "18:52"
+    },
+    {
+      "time": "18:58"
+    },
+    {
+      "time": "19:05"
+    },
+    {
+      "time": "19:11"
+    },
+    {
+      "time": "19:18"
+    },
+    {
+      "time": "19:24"
+    },
+    {
+      "time": "19:31"
+    },
+    {
+      "time": "19:37"
+    },
+    {
+      "time": "19:44"
+    },
+    {
+      "time": "19:53"
+    },
+    {
+      "time": "20:02"
+    },
+    {
+      "time": "20:11"
+    },
+    {
+      "time": "20:21"
+    },
+    {
+      "time": "20:30"
+    },
+    {
+      "time": "20:39"
+    },
+    {
+      "time": "20:47"
+    },
+    {
+      "time": "20:56"
+    }
+  ],
+  "legend": [
+    "浅绿色圆点标注为始发站（西直门站）"
+  ],
+  "warnings": [
+    "图片中仅可见6时、7时、8时、9时、10时、16时、17时、18时、19时、20时的发车时间；11时至15时及21时以后未出现在可见区域，无法提取。"
+  ],
+  "redo_meta": {
+    "mode": "full_ocr_redo",
+    "model": "rd/gpt-5.4",
+    "result_path": "tmp/model-redo-ocr/full-ocr-redo-results/batch-5413-results.json",
+    "batch_index": 5413,
+    "old_read_by": "vision-model",
+    "old_count": 69,
+    "new_count": 69
+  },
+  "manual_validation_status": "auto_validated",
+  "manual_validation_reason": "manual image review 2026-05-14: official midline timetable with separated morning/evening windows; large midday gap is expected.",
+  "manual_validated_at": "2026-05-14"
+}
